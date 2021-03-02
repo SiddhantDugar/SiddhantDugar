@@ -50,11 +50,9 @@
   <img align="left" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
-<br/>
+</br>
 
-
-![Siddhant's github stats](https://github-readme-stats.vercel.app/api?username=SiddhantDugar&show_icons=true&hide_border=true&hide=contribs,prs?count_private=true&theme=gotham)
-<br/>
-
+![Siddhant's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiddhantDugar&show_icons=true&theme=dark)
+</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiddhantDugar&layout=compact)](https://github.com/SiddhantDugar/github-readme-stats)
 
