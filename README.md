@@ -3,7 +3,7 @@
 
 ### About Me 🚀
 
-🎓 I am a pre-final year undergraduate pursuing my Bachelors in Computer Engineering from [Delhi Technological University (Formerly DCE)](http://dtu.ac.in/).
+🎓 I am a final year undergraduate pursuing my Bachelors in Computer Engineering from [Delhi Technological University (Formerly DCE)](http://dtu.ac.in/).
 
 👨‍💻 I’m  passionate about Web Development,Machine Learning,Blockchain and exploring new technologies.
 
